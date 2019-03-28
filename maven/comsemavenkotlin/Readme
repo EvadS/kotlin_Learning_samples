@@ -1,0 +1,12 @@
+
+simple test project for demonstrate
+
+1. kotlin maven project
+2. Gson
+    2.1 convert to json
+    2.2 convert to object from json
+
+3. kotlin reflection - how get get value by properties by class instance
+4. How to run
+    4.1   mvn clean package
+    4.2   java -jar target/com-se-maven-kotlin-1.0-SNAPSHOT-jar-with-dependencies.jar
